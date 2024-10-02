@@ -1,0 +1,29 @@
+  
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+PmwFunctionReturnValue KEYWORD1
+PMW          KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin		KEYWORD2
+apply	KEYWORD2
+off     KEYWORD2
+set     KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+FUNCTION_UNSUPPORTED	LITERAL1
+FUNCTION_SUCCESS	LITERAL1
+FUNCTION_FAIL	LITERAL1
+
+
